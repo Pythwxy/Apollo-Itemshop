@@ -1,6 +1,6 @@
 CID_397_Athena_Commando_F_TreasureHunterFashion
 CID_398_Athena_Commando_M_TreasureHunterFashion
-CID_401_Athena_Commando_M_Miner
+CID_054_Athena_Commando_M_SkiDude_USA
 na
 na
 na
