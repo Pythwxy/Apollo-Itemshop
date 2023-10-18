@@ -2,7 +2,7 @@ CID_391_Athena_Commando_M_HoppityHeist
 CID_392_Athena_Commando_F_BountyBunny
 Pickaxe_ID_197_HoppityHeist
 BID_253_HoppityHeist
-Pickaxe_ID_198_BountyBunny
+na
 na
 CID_535_Athena_Commando_M_Traveler
 Pickaxe_ID_275_Traveler
