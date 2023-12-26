@@ -1,9 +1,9 @@
-CID_649_Athena_Commando_F_HolidayPJ
-CID_651_Athena_Commando_F_HolidayPJ_C
-CID_652_Athena_Commando_F_HolidayPJ_D
-na
-na
-na
+CID_059_Athena_Commando_M_SkiDude_CHN
+BID_012_SkiDude_CHN
+CID_060_Athena_Commando_M_SkiDude_KOR
+BID_013_SkiDude_KOR
+CID_057_Athena_Commando_M_SkiDude_FRA
+BID_010_SkiDude_FRA
 CID_294_Athena_Commando_F_RedKnightWinter
 Pickaxe_ID_143_FlintlockWinter
 EID_Boneless
