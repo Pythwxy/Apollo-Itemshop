@@ -8,5 +8,5 @@ CID_202_Athena_Commando_F_DesertOps
 Pickaxe_ID_026_Brite
 EID_Fresh
 CID_255_Athena_Commando_F_HalloweenBunny
-HappyPickaxe
+Pickaxe_ID_084_DurrburgerHero
 EID_Wiggle
