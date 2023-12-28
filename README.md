@@ -5,7 +5,7 @@ BID_226_BandageNinjaFemale
 Pickaxe_ID_219_BandageNinja1H
 na
 CID_497_Athena_Commando_F_WildWest
-Pickaxe_ID_202_AshtonBoardwalk
+Pickaxe_ID_190_GolfClub
 EID_Cry
 CID_242_Athena_Commando_F_Bullseye
 Pickaxe_ID_024_Plunger
