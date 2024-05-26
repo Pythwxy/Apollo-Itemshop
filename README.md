@@ -1,9 +1,5 @@
 CID_217_Athena_Commando_M_Medic
-BID_109_MedicMale
 CID_216_Athena_Commando_F_Medic
-BID_110_MedicFemale
-na
-na
 CID_328_Athena_Commando_F_Tennis
 Pickaxe_ID_224_Butterfly
 EID_Fresh
