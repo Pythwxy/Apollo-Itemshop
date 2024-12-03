@@ -4,15 +4,15 @@
   "pub_date": "2024-12-01T12:00:00+00:00",
   "platforms": {
     "linux-x86_64": {
-      "signature": "http://104.243.41.71/filedatabase/Sovereign_0.0.5_x64_en-US.msi.zip.sig",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSlpqZEh4czhRT2tIM2ZhYzFnR0luUDlYZlZId0Ivbkh3d2hXTzBkbnB5SENuQ0JtczVrWXY4amtnNzhaMXkwdWsxeUZ0bVlXb3pwOFl3S1l6VzU4RTFjMDMvb2tCY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzMTk4NTEwCWZpbGU6U292ZXJlaWduXzAuMC41X3g2NF9lbi1VUy5tc2kuemlwCm0ySXM1bzFIWGtENFRJVVc0d1ZmK0JXdURXVmU1NUtyU3FhZG4vVmY1MWhuRlRKaDY5M0Jmc200OElGRU96UVlLZG0zckMzVmxmNWgyWU1TV1B2d0NRPT0K",
       "url": "http://104.243.41.71/filedatabase/Sovereign_0.0.5_x64_en-US.msi.zip"
     },
     "windows-x86_64": {
-      "signature": "https://drive.usercontent.google.com/download?id=1LZKscnhRtcd8IZMHMuTYjHOhWCU2An-4&export=download&authuser=0&confirm=t&uuid=31a3ff6d-55a2-45bb-aa3b-9d958807261e&at=AENtkXYIkLyFc9HLoVrhGttzXHNm:1733255229271",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSlpqZEh4czhRT2tIM2ZhYzFnR0luUDlYZlZId0Ivbkh3d2hXTzBkbnB5SENuQ0JtczVrWXY4amtnNzhaMXkwdWsxeUZ0bVlXb3pwOFl3S1l6VzU4RTFjMDMvb2tCY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzMTk4NTEwCWZpbGU6U292ZXJlaWduXzAuMC41X3g2NF9lbi1VUy5tc2kuemlwCm0ySXM1bzFIWGtENFRJVVc0d1ZmK0JXdURXVmU1NUtyU3FhZG4vVmY1MWhuRlRKaDY5M0Jmc200OElGRU96UVlLZG0zckMzVmxmNWgyWU1TV1B2d0NRPT0K",
       "url": "https://drive.usercontent.google.com/download?id=1lPOsUeqBepQZl9pXf8wmtdtJPmcbbsYk&export=download&authuser=0&confirm=t&uuid=f27b31ce-822f-41b8-9249-6f4df9c95bf6&at=AENtkXZ5Kj0Xqe8X53M7NE_Zezf6:1733255277590"
     },
     "darwin-x86_64": {
-      "signature": "http://104.243.41.71/filedatabase/Sovereign_0.0.5_x64_en-US.msi.zip.sig",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSlpqZEh4czhRT2tIM2ZhYzFnR0luUDlYZlZId0Ivbkh3d2hXTzBkbnB5SENuQ0JtczVrWXY4amtnNzhaMXkwdWsxeUZ0bVlXb3pwOFl3S1l6VzU4RTFjMDMvb2tCY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMzMTk4NTEwCWZpbGU6U292ZXJlaWduXzAuMC41X3g2NF9lbi1VUy5tc2kuemlwCm0ySXM1bzFIWGtENFRJVVc0d1ZmK0JXdURXVmU1NUtyU3FhZG4vVmY1MWhuRlRKaDY5M0Jmc200OElGRU96UVlLZG0zckMzVmxmNWgyWU1TV1B2d0NRPT0K",
       "url": "http://104.243.41.71/filedatabase/Sovereign_0.0.5_x64_en-US.msi.zip"
     }
   }
